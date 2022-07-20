@@ -1,0 +1,12 @@
+<html>
+<head><title>font 연습</title></head>
+<body>
+<basefont size=4> 기본 글자 크기 지정<br><br>
+<body>
+<basefont size=4> 기본 글자 크기 지정<br><br>
+<font size = "+1"> 글자의 크기를 +1로 지정<br><br>
+<font size = "-2"> 글자의 크기를 -2로 지정<br><br>
+<font size = "+3"> 글자의 크기를 +3로 지정<br><br>
+<font size = "-4"> 글자의 크기를 -4로 지정<br><br>
+</body>
+</html>
