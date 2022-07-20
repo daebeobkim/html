@@ -1,0 +1,20 @@
+<html>
+<head><title>글자에 장식 효과 주기</title></head>
+<body>
+
+<b> b태그는 문자를 진하게(bold) 변경합니다. </b><br>br>
+<strong>strong태그는 문자를 진하게(strong) 변경합니다.</strong><br><br><br>
+
+<i> i태그는 문자를 이탤릭체(italic)로 변경합니다</i><br><br>
+<em> em태그는 emphasis(강조)로 글자가 기울어져 나타납니다.</em><br><br>
+
+sup태그는 <sup>위첨자(superscript)로 </sup>변경합니다<br><br><br>
+sub태그는 <sub>아래첨자(subscript)로 </sub>변경합니다.<br><br><br>
+
+big태그는 현재 글자보다 <big>좀더 크게 </big>변경합니다.<br><br>
+small태그는 현재 글자보다 <small>좀더 작게</small>변경합니다.<br><br>
+
+<u> u태그는 글자에 밑줄선을 그려줄 때 사용합니다. </u><br><br>
+<s> s태그는 글자에 취소선을 그려 줄 때 사용합니다.</s><br><br>
+</body>
+</html>
