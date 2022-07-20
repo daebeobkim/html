@@ -1,0 +1,10 @@
+<html>
+<head><title>font 연습</title></head>
+<body>
+<h3>
+<font face="돋움"> 글꼴을 돋움체로 변경</font><br><br>
+<font face="궁서"> 글꼴을 궁서체로 변경</font><br><br>
+<font face="바탕"> 글꼴을 바탕체로 변경</font><br><br>
+</h3>
+</body>
+</html>
