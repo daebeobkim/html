@@ -1,0 +1,32 @@
+<html>
+<head><title>p태그 연습</title></head>
+
+<body>
+<h3>조개껍질</h3>
+<p align="right">윤동주</p>
+<p align = "left">
+아롱아롱 조개껍데기<br>
+울 언니 바닷가에서 <br>
+주워온 조개껍데기<br>
+</p>
+
+<p align="center">
+여긴여긴 북쪽 나라요<br>
+조개는 선물<br>
+장난감 조개껍데기<br>
+</p>
+
+<p align = "right">
+데굴데굴 굴리며 놀다<br>
+짝 잃은 조개껍데기 <br>
+한 짝을 그리워하네<br>
+</p>
+
+<p>
+아롱아롱 조개 껍데기 <br>
+나처럼 그리워하네 <br>
+물소리 바다 물 소리<br>
+</p>
+
+</body>
+</html>
