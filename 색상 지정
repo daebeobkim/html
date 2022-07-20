@@ -1,0 +1,11 @@
+<html>
+<head><title>font 연습</title></head>
+<body>
+<h3>
+<font color="red"> 글자의 색상지정 : 빨간색(red/#ff000)</font<br><br>
+<font color="blue"> 글자의 색상지정 : 파란색(blue/#0000ff)</font<br><br>
+<font color="pink"> 글자의 색상지정 : 분홍색(pink/#ffc0cb)</font<br><br>
+<font color="yellow"> 글자의 색상지정 : 노란색(yellow/#ffff00)</font<br><br>
+</h3>
+</body>
+</html>
