@@ -1,0 +1,9 @@
+<html>
+<head><title>연속해서 공백 삽입하기</title></head>
+<body>
+공백문자를 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 연속해서
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 삽입해야 할 경우
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 단순히 스페이스만
+입력해서는 표현이 불가능하기에 특수문자를 사용해야 한다.
+</body>
+</html>
