@@ -1,0 +1,17 @@
+<html>
+<head><title>rpe 태그 연습</title></head>
+<body>
+일반적인 html 문서에서는
+enter키도 인식하지 못하고,
+공백(space)도       인식하지 못합니다.
+<pre>
+
+
+pre 태그 내부에서는
+
+html문서에 입력된 그대로 출력됩니다.
+공백(space)도 여러번     입력하여도 그대로 나타납니다.
+하지만 이 태그 안에 다른 태그는 인식하지 못합니다.
+</pre>
+</body>
+</html>
