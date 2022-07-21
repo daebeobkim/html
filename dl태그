@@ -1,0 +1,14 @@
+<html>
+<head><title>목록 나열하기</title></head>
+<body>
+<h3>정의 목록의 태그에 대한 설명</h3>
+<dl>
+	<dt> dl 태그
+	<dd>definition list의 약자로 정의 목록의 시작을 지정합니다.
+	<dt>dt 태그
+	<dd>definition title의 약자로 용어의 제목을 표현할 때 사용합니다.
+	<dt>dd 태그
+	<dd>defination description의 약자로 용어의 설명을 표현할 때 사용합니다.
+</dl>
+</body>
+</html>
