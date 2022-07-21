@@ -1,0 +1,16 @@
+<html>
+<head><title>태그연습</title></head>
+<body>
+<marquee behavior="scroll" heigt="50">
+behavior 속성의 기본값으로 문자열이 페이지를 가르면서 계속 흘러간다.
+</marquee>
+
+<marquee behavior="slide" heigh="50">
+스크롤하던 문자가 페이지 한쪽 끝 가장자리에 닿으면 정지한다.
+</marquee>
+
+<marquee behavior="alternate" height="50">
+문자열이 일정범위 내에서 앞뒤로 왔다 갔다 반복한다.
+</marquee>
+</body>
+</html>
