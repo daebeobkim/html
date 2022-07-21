@@ -1,0 +1,16 @@
+<html>
+<head><title>태그연습</title></head>
+<body>
+<marquee align="middle" height="50">
+텍스트의 위치(상, 중, 하)를 지정한다.
+</marquee>
+
+<marquee height="50">
+텍스트가 나타날 범위를 지정한다.
+</marquee>
+
+<marquee height="50" width="400" hspace="10" vspace="10">
+텍스트 바깥쪽의 상하좌우 여백을 지정한다.
+</marquee>
+</body>
+</html>
