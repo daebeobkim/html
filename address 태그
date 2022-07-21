@@ -1,0 +1,13 @@
+<html>
+<head><title>글자 관련 태그 살펴보기</title></head>
+홈페이지마다 문서의 한쪽 구석에 제작자의 정보와 함께 주소를
+기입할 경우가 있습니다.
+주소나 연락처들을 기술할 때 사용되는 태그가
+바로 address 태그입니다.
+이 태그로 둘러싸인 텍스트는 이태릭체로 나타납니다.
+<hr>
+<address>서울시 송파구 석촌동</address>
+<hr>
+<address>tehchsung@chol.com 저자 성윤정</address>
+</body>
+</html>
