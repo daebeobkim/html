@@ -1,0 +1,23 @@
+<html>
+<head><title>목록 나열하기</title></head>
+<body>
+<h3>나의 몸</h3>
+<u1 type="disc">
+	<li> 얼굴
+	<li> 손
+	<li> 발
+</u1>
+<h3>동물 친구들</h3>
+<u1 type = "squre">
+	<li> 고양이
+	<li> 바둑이
+	<li> 거북이
+</ul>
+<h3>과일</h3>
+<u1 type="circle">
+	<li> 사과
+	<li> 포도
+	<li> 배
+</ul>
+</body>
+</html>
