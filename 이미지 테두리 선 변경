@@ -1,0 +1,14 @@
+<html>
+<head><title>marquee 이미지에 테두리 지정하기</title></head>
+<body>
+1픽셀 두께의 테두리 &nbsp; &nbsp; &nbsp; &nbsp;
+3픽셀 두께의 테두리 &nbsp; &nbsp; &nbsp; &nbsp;
+5픽셀 두께의 테두리
+<br>
+<img src="https://t1.daumcdn.net/cfile/tistory/996F3C385D4FF4BC06" border="1">
+ &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://t1.daumcdn.net/cfile/tistory/996F3C385D4FF4BC06" border="3">
+ &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://t1.daumcdn.net/cfile/tistory/996F3C385D4FF4BC06" border="5">
+</body>
+</html>
