@@ -1,0 +1,24 @@
+
+<html>
+<head><title>목록 나열하기</title></head>
+<body>
+<h3>나의 몸(아라비아 숫자형태의 목록)</h3>
+<ol>
+	<li> 얼굴
+	<li> 손
+	<li> 발
+</ol>
+<h3>동물 친구들(영문자 소문자 형태로 시작번호 변경)</h3>
+<ol type ="a" start="2">
+	<li> 고양이
+	<li> 바둑이
+	<li> 거북이
+</ol>
+<h3>과일(로마 대문자로 시작번호 변경)</h3>
+<ol type="i">
+	<li value="2"> 사과
+	<li> 포도
+	<li> 배
+</ol>
+</body>
+</html>
