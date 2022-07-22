@@ -1,0 +1,15 @@
+#다른 문서로 이동하기
+<html>
+<head><title>링크</title></head>
+<body>
+<a herf="link.html"> 문서 이동</a>
+</body>
+</html>
+
+#링크를 걸어줄 페이지(저장을 link.html로 해야함)
+<html>
+<head><title>문서간의 연결</title></head>
+<body>
+문서간의 이동을 성공적으로 되었습니다.
+</body>
+</html>
