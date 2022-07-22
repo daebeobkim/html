@@ -1,0 +1,12 @@
+<html>
+<head><title>이미지의 예제</title></head>
+<body>
+<h3><center>
+<img src="http://health.chosun.com/site/data/img_dir/2020/05/07/2020050702573_0.jpg" width="300" height="150">
+<br><br><br><br>
+<img src="http://health.chosun.com/site/data/img_dir/2020/05/07/2020050702573_0.jpg" width="150" heigth="300">
+<br><br><br><br>
+<img src="http://health.chosun.com/site/data/img_dir/2020/05/07/2020050702573_0.jpg">
+</center></h3>
+</body>
+</html>
