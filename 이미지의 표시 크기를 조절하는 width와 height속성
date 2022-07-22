@@ -1,0 +1,16 @@
+<html>
+<head><title>이미지의 예제</title></head>
+<body>
+<br>
+<center>
+높이는 자동적으로 계산됨<p>
+<br>원래크기<br>
+<img src="http://health.chosun.com/site/data/img_dir/2020/05/07/2020050702573_0.jpg" border=1><br><br>
+<br>너비늘림<br>
+<img src="http://health.chosun.com/site/data/img_dir/2020/05/07/2020050702573_0.jpg" border=1  width="900"><br><br>
+<br>너비줄임<br>
+<img src="http://health.chosun.com/site/data/img_dir/2020/05/07/2020050702573_0.jpg" border=1 width="50">
+</center>
+</h5>
+</body>
+</html>
