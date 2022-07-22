@@ -1,0 +1,13 @@
+<html>
+<head><title>이미지 주변에 여백 지정하기</title></head>
+<body>
+<img src="https://images.mypetlife.co.kr/content/uploads/2019/08/09153147/thomas-q-INprSEBbfG4-unsplash.jpg" border="1" align="left" hspace="20">
+img 태그의 "vspace"와 "hspace"속성을 지정하면 이미지와
+출력되는 글자 사이의 여백을 설정할 수 있습니다.
+<br clear="left">
+<br>
+<br>
+<img src="http://health.chosun.com/site/data/img_dir/2020/05/07/2020050702573_0.jpg" border=1 a;ign="left" hspace="100">
+hspace로 여백을 설정하면 양쪽(왼쪽, 오른쪽) 모두에 공백이 설정됩니다.
+</body>
+</html>
