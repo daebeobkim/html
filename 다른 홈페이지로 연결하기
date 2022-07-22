@@ -1,0 +1,10 @@
+<html>
+<head><title>다른 홈페이지 이동</title></head>
+<body>
+<center>
+검색 엔진<hr><hr>
+<a href="https://www.naver.com/">네이버</a><br>
+<a href="https://www.google.com/?&bih=937&biw=1920&hl=ko">구글</a><br>
+</center>
+</body>
+</html>
