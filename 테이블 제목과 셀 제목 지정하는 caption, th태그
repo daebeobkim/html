@@ -1,0 +1,26 @@
+<html>
+<head><title>캡션과 헤더 셀</title></head>
+<body>
+<table border="3">
+<caption>받은 편지</caption>
+	<tr>
+		<th>일자(date)</th>	<th>보낸 이(from)</th>	<th>제목(subject)</th>
+	</tr>
+	<tr>
+		<td>2009년 03월 29일</td>
+		<td>infoadmin@coffeemail.net</td>
+		<td>상품을 타가세요</td>
+	</tr>
+	<tr>
+		<td>2009년 04월 10일</td>
+		<td>newsletter@chollian.net</td>
+		<td>빨리 찜하세요!</td>
+	</tr>
+	<tr>
+		<td>2009년 05월 20일</td>
+		<td>newsletter@chollian.net</td>
+		<td>경기 불황 속에 대출</td>
+	</tr>오후 6:43 2022-07-26
+</table>
+</body>
+</html>
