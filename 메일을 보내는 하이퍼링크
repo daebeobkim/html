@@ -1,0 +1,12 @@
+<html>
+<head><title>이 메일 보내기</title></head>
+<body>
+<center>
+메일을 보내주세요<hr>
+<a href="mailto:pretty@daum.net">
+여기를 클릭하면<br>
+저에게 메일을 보낼 수 있습니다.
+</a>
+</center>
+</body>
+</html>
