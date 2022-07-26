@@ -1,0 +1,37 @@
+<html>
+<head><title>앵커의 사용</title></head>
+<body>
+<center>
+<font size="6" color="green">명 시 모 음</font>
+<hr>
+<a href="#num01">접시꽃 당신</a><br>
+<a href="#num02">딸에게</a><br>
+<a href="#num03">꽃</a><br><br><br><br>
+</center>
+<br><br><br><br><br><br><br>
+<a name="num01"></a>
+<font size="6" color="green">접시꽃 당신</font>
+<br>
+<p align=right>도종환</p>
+옥수수 잎에 빗방울이 나립니다<br><br>
+<!-- 책에서는 생략 소스를 참조하세요. -->
+나는 당신의 손을 잡고 당신 곁에 영원히 있습니다<br>
+<a name="num02"></a><br><br><br><br><br><br>
+<font size="6" color="green">딸에게</font>
+<br>
+<p align=right>김용화</p><br><br>
+너는<br><br>
+지상에서 가장 쓸쓸한 사내에게 날아온 천상의<br><br>
+선녀가<br><br>
+하룻밤 잠자리에 떨어뜨리고 간 한 떨기의 꽃<br><br><br><br>
+
+<a name="num03"></a>
+<br><br><br><br><br><br><br>
+<font size="6" color="green">꽃</font>
+<br>
+<p align=right>김춘수</p>
+내가 그의 이름을 불러 주기 전에는<br><br>
+<!-- 책에서는 생략소스를 참조하세요. -->
+잊혀지지 않는 하나의 의미(눈짓)가 되고 싶다.<br><br><br><br><br><br><br>
+</body>
+</html>
