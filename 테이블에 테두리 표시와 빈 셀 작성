@@ -1,0 +1,16 @@
+<html>
+<head><title>테이블의 행과 열</title></head>
+<body>
+<table border="1">
+	<tr>
+		<td>1행1열</td>	<td>&nbsp;</td>	<td>1행3열</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>	<td>2행2열</td>	<td>2행3열</td>
+	</tr>
+	<tr>
+		<td>3행1열</td>	<td>3행1열</td>	<td>&nbsp;</td>
+	</tr>
+</table>
+</body>
+</html>
