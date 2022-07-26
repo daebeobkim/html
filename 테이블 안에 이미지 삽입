@@ -1,0 +1,19 @@
+<html>
+<head><title>테이블의 행과 열</title></head>
+<body>
+<table border="1">
+	<tr>
+		<td><img src="https://static.hubzum.zumst.com/hubzum/2019/07/26/11/8291a05e16b14e9b91eedc7a4375c934_780x585.jpg" width="120" height="180"></td>
+		<td> 치킨 </td>
+		<td><img src="https://static.hubzum.zumst.com/hubzum/2019/07/26/11/8291a05e16b14e9b91eedc7a4375c934_780x585.jpg" width="120" height="180"></td>
+		<td> &nbsp; </td>
+	</tr>
+	<tr>
+		<td> &nbsp; </td>
+		<td><img src="https://static.hubzum.zumst.com/hubzum/2019/07/26/11/8291a05e16b14e9b91eedc7a4375c934_780x585.jpg" width="120" height="180"></td>
+		<td> &nbsp; </td>
+		<td><img src="https://static.hubzum.zumst.com/hubzum/2019/07/26/11/8291a05e16b14e9b91eedc7a4375c934_780x585.jpg" width="120" height="180"></td>
+	</tr>
+</table>
+</body>
+</html>
