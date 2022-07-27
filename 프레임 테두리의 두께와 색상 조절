@@ -1,0 +1,10 @@
+<html>
+<head><title>프레임 다루기</title></head>
+<frameset rows="50%,*" bored="5" bordercolor="blue">
+	<frame>
+	<frameset cols="30%,*" bored="5" bordercolor="red">
+		<frame>
+		<frame>
+	</frame>
+</frame>
+</html>
