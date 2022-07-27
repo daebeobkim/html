@@ -1,0 +1,25 @@
+<html>
+<head><title>셀 합치기</title></head>
+<body>
+<table border="1" align="left">
+	<tr>
+	<tr bgcolor="silver">
+		<td>1행 1열</td>
+		<td>1행 2열</td>
+		<td>1행 3열</td>
+	</tr>
+	</tr>
+	
+	<tr>
+		<td bgcolor="red">2행 1열</td>
+		<td>2행 2열</td>
+		<td>2행 3열</td>
+	</tr>
+	<tr>
+		<td bgcolor="blue">3행 1열</td>
+		<td>3행 2열</td>
+		<td>3행 3열</td>
+	</tr>
+</table>
+</body>
+</thml>
