@@ -1,0 +1,13 @@
+<html>
+<head><title>폼 양식 작성하기</title></head>
+<body>
+<center>
+<h3>간단하게 자기소개를 하세요</h3><br>
+<form>
+<testarea rows="12" cols="70" name="content">
+저는 예쁜 공주입니다.
+</textarea>
+</center>
+</form>
+</body>
+</html>
