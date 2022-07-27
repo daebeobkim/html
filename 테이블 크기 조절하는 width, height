@@ -1,0 +1,23 @@
+<html>
+<title>테이블 크기 조절하기</title>
+</head>
+<body>
+<br><br>
+<table border width="200" align="left">
+	<tr><td>셀1</td><td>셀2</td></tr>
+	<tr><td>셀3</td><td>셀4</td></tr>
+</table>
+
+<table border height="200" align="right">
+	<tr><td>셀9</td><td>셀10</td></tr>
+	<tr><td>셀11</td><td>셀12</td></tr>
+</table>
+
+<center>
+<table border width="300" height="100">
+	<tr><td>셀5</td><td>셀6</td></tr>
+	<tr><td>셀7</td><td>셀8</td></tr>
+</table>
+</center>
+</body>
+</html>
