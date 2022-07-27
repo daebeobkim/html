@@ -1,0 +1,17 @@
+<html>
+<head><title>프레임 다루기</title></head>
+<body bgcolor="red">
+<iframe src="frm6.html" scrolling="yes">
+창이 나타날까?
+</iframe>
+</body>
+</html>
+
+
+<html>
+<body>
+문서 내부에 창이 나타납니다.
+<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
+</body>
+</html>
