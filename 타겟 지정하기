@@ -1,0 +1,19 @@
+<html>
+<head><title>타겟 지정하기</title></head>
+	<frameset cols="30%,*">
+	<frame src="frm6.html" name="left">
+<frame name="right">
+</frameset>
+</html>
+
+
+# 이름 주의할 것
+<html>
+<body>
+검색엔진
+<hr>
+<a href="https://www.naver.com" target="right"> 네이버 </a><br>
+<a href="https://www.google.co.kr" target="right"> 구글 </a><br>
+<a href="https://github.com/daebeobkim/html/new/main" target="right">깃허브</a>
+</body>
+</html>
