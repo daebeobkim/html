@@ -1,0 +1,18 @@
+<html>
+<head><title>테이블 배경색 지정하기</title></head>
+<body>
+<table background="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMjA3MDNfMjYx%2FMDAxNjU2Nzc0NTc4MjM3.zqts0kcudABwpoKYuLA1M4c2VmiVQjWKCKO0LiOvUnEg.q8GEJF_EK7eo7Aj8VUJNm_tmEhbTEHYh7sWgb9lesbgg.JPEG.ttlgk333%2F1656774516748.jpg&type=a340" width="700">
+	<tr>
+		<td>
+			<br>
+			<b>
+			비누 방울 날아라, 바람 타고 동동동.<br>
+			비누 방울 날아라, 바람 타고 동동동.<br>
+			비누 방울 날아라, 바람 타고 동동동.<br>
+			비누 방울 날아라, 바람 타고 동동동.<br>
+			</b>
+		</td>
+	</tr>
+</table>
+</body>
+</html>
