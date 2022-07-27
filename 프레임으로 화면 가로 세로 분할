@@ -1,0 +1,16 @@
+<html>
+<head><title>테이블 이용하여 화면 분할하기</title></head>
+<frameset rows="100,*">
+	<frame></frame>
+	<frame></frame>
+</frameset>
+</html>	
+
+
+<html>
+<head><title>테이블 이용하여 화면 분할하기</title></head>
+<frameset cols="100,*">
+	<frame></frame>
+	<frame></frame>
+</frameset>
+</html>	
