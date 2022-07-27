@@ -1,0 +1,18 @@
+<html>
+<head><title>테이블로 이미지와 텍스트를 혼합하여 출력하기</title></head>
+<body bgcolor="black">
+<table border="0" cellpadding="4" cellspacing="0" width="380">
+	<tr>
+	<td>
+		<img src="https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20210824_268%2F1629766135202lOA69_PNG%2FTCoVsvdDigXjJPwrXDDGFtDw.png&type=sc960_832" width="100" height="60" border="0">
+	</td>
+	<td>
+	<font size="1" color="white">
+	전 세계에서 유명한 치킨을 저렴한 가격에 판매합니다.
+	관심 있으신 분들은 많은 연락바랍니다.
+	</font>
+	</td>
+	</tr>
+</table>
+</body>
+</html>
