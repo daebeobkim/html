@@ -1,0 +1,10 @@
+<html>
+<head><title>프레임 다루기</title></head>
+<frameset cols="30%,*">
+	<frame src="frm4.html" scrolling="yes">
+	<frameset rows="50%,*">
+		<frame src="frm5.html" scrolling="auto">
+		<frame src="frm6.html" scrolling="no">
+	</framset>
+</frameset>
+</html>
