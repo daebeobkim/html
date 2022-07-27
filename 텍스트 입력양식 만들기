@@ -1,0 +1,11 @@
+<html>
+<head><title>폼 양식 작성하기</title></head>
+개인정보 등록하기<br>
+<form>
+이 름 : <input type="text" name="name"><br>
+메 일 : <input type="text" name="email" value="duk@hotmail.com"><br>
+전 화 : <input type="text" name="tel" size="30"><br>
+주 소 : <input type="text" name="addr" maxlength="10"><br>
+</form>
+</body>
+</html>
