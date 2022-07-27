@@ -1,0 +1,17 @@
+<html>
+<head><title>프레임 다루기</title></head>
+<frameset cols="50%,*">
+	<frame src="left.html">
+	<frame src="right.html">
+</frameset>
+<html>
+	
+  
+<html>
+<body>프레임 오른쪽에 나타납니다.</body>
+</html>
+
+
+<html>
+<body>프레임 오른쪽에 나타납니다.</body>
+</html>
