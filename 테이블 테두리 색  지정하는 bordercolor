@@ -1,0 +1,21 @@
+<html>
+<head><title>테이블 배경색 지정하기</title></head>
+<body>
+<table border width=200 bordercolor="green" align="left">
+	<tr>
+		<td>셀1</td>	<td>셀2</td>
+	</tr>
+	<tr>
+		<td>셀3</td>	<td>셀4</td>
+	</tr>
+	</table>
+<table border width=200 bgcolor="#990000" align="right">
+	<tr>
+		<td>셀5</td>	<td>셀6</td>
+	</tr>
+	<tr>
+		<td>셀7</td>	<td>셀8</td>
+	</tr>
+</table>
+</body>
+</html>
