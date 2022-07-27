@@ -1,0 +1,27 @@
+<html>
+<head><title>테이블 이용하여 화면 분할하기</title></head>
+<body>
+<table border="1" align="center" width="400" height="200">
+	<tr>
+		<td>1행 1열</td>
+		<td rowspan="3">
+			<table border="1" align="center">
+				<tr>
+					<td>가</td> <td>나</td>
+				</tr>
+				<tr>
+					<td>다</td> <td>라</td>
+				</tr>
+			</table>
+		</td>
+		<td>1행 3열</td>
+	</tr>
+	<tr>
+		<td>2행 1열</td>
+	</tr>
+	<tr>
+		<td>3행 1열</td>
+	</tr>
+</table>
+</body>
+</html>
