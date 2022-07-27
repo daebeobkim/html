@@ -1,0 +1,22 @@
+<html>
+<head><title>border속성의 사용</title></head>
+<body>
+<br><br>
+<table border=1 align="left">
+	<tr><td>셀1</td><td>셀2</td></tr>
+	<tr><td>셀3</td><td>셀4</td></tr>
+</table>
+
+<table border=10 align="right">
+	<tr><td>셀9</td><td>셀10</td></tr>
+	<tr><td>셀11</td><td>셀12</td></tr>
+</table>
+
+<center>
+<table border=4>
+	<tr><td>셀5</td><td>셀6</td></tr>
+	<tr><td>셀7</td><td>셀8</td></tr>
+</table>
+</center>
+</body>
+</html>
