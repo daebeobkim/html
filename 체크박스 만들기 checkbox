@@ -1,0 +1,12 @@
+<html>
+<head><title>폼 양식 작성하기</title></head>
+<body>
+좋아하는 영화를 여러 개 선택하세요.
+<hr>
+<form>
+<input type="checkbox" name="check01" checked> 인디아나 존스<br>
+<input type="checkbox" name="check02"> 헤리포터<br>
+<input type="checkbox" name="check03" checked> 쿵후펜더
+</form>
+</body>
+</html>
