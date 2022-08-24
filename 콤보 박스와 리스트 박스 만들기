@@ -1,0 +1,23 @@
+<html>
+    <head><title>폼 양식 작성하기</title></head>
+    <body>
+        <center>
+            <form>
+                <h3>좋아하는 노래를 선택하세요.</h3>
+                <select length="20">
+                    <option>세상의 중심에서 사랑을 외치다
+                    <option>붉은 노을
+                    <option>희망 사항
+                    <option>신데렐라
+                </select>
+                <h3>좋아하는 노래를 선택하세요.</h3>
+                <select size=4 length="20">
+                    <option>세상의 중심에서 사랑을 외치다
+                    <option>붉은 노을
+                    <option>희망 사항
+                    <option>신데렐라
+                </select>
+            </form>
+        </center>
+    </body>
+</html>
