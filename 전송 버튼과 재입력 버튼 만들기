@@ -1,0 +1,15 @@
+<html>
+    <head><title>폼 양식 작성하기</title></head>
+    <body>
+        <form method=post action="http://www.naver.com/">
+        <center>
+            이 름 : <input type = "text" size = 30 ><br>
+            메 일 : <input type = "text" size = 30 ><br>
+            전 화 : <input type = "text" size = 30 ><br>
+            주 소 : <input type = "text" size = 30 ><br><br>
+            <input type = "submit" value="전 송 버 튼">
+            <input type = "reset" value="재입력 버튼">
+        </center>
+        </form>
+    </body>
+</html>>
