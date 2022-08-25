@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title> 홈페이지에 오신걸 환영합니다.</title>
+    </head>
+    <body bgcolor = "#FB9C06">
+        <center>
+            <h2> 회원가입하기</h2>
+            <table bgcolor = "#EFEFEF" border = "0" cellspacing = "0" cellpadding = "0" width = "600" height = "260" align = "center">
+            <form>
+                <tr>
+                    <td align = "right">이름</td>
+                    <td>&nbsp;&nbsp;
+                        <input type=text size=20 value="">
+                    </td>
+                </tr>
+                <tr>
+                    <td align = "right">주민등록번호</td>
+                    <td>&nbsp;&nbsp;
+                        <input type=text size=6 value="">-
+                        <input type=text size=7 value="">
+                        <input type="button" value="중복검사">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td align="right">전화번호</td>
+                    <td>&nbsp;&nbsp;
+                        <input type=text size=4 value=""> -
+                        <input type=text size=4 value=""> -
+                        <input type=text size=4 value="">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">휴대폰</td>
+                    <td>&nbsp;&nbsp;
+                        <input type=text size=4 value=""> -
+                        <input type=text size=4 value=""> -
+                        <input type=text size=4 value="">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">주소</td>
+                    <td>&nbsp;&nbsp;
+                        <input size=45 "value">
+                        <input size=38 type=hidden value="">
+                        <input type="button" value="주소찾기">
+                        </td>
+                </tr>
+                <tr>
+                    <td align="right">아이디</td>
+                    <td>&nbsp;&nbsp;
+                        <input type=text size=12 value="">&nbsp;&nbsp;
+                        <input type="button" value="중복검사">
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">비밀번호</td>
+                    <td>&nbsp;&nbsp;
+                    <input type=password size=12 value="">
+                    &nbsp;&nbsp;&nbsp;&nbsp;비밀번호확인&nbsp;&nbsp;&nbsp;&nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td align="right">생년월일</td>
+                    <td>&nbsp;&nbsp;
+                    <input type=text size=4 value="">년
+                    <select name ="birthdatemonth">
+                        <option value=""></option>
+                        <option value="1">1</option><option value="2">2</option>
+                        <option value="3">3</option><option value="4">4</option>
+                        <option value="5">5</option><option value="6">6</option>
+                        <option value="7">7</option><option value="8">8</option>
+                        <option value="9">9</option><option value="10">10</option>
+                        <option value="11">11</option><option value="12">12</option>
+                    </select>월
+                    <select name="birthday">
+                        <option value="1">1</option><option value="2">2</option>
+                        <option value="3">3</option><option value="4">4</option>
+                        <option value="5">5</option><option value="6">6</option>
+                        <option value="7">7</option><option value="8">8</option>
+                        <option value="9">9</option><option value="10">10</option>
+                        <option value="11">11</option><option value="12">12</option>
+                        <option value="13">13</option><option value="14">14</option>
+                        <option value="15">15</option><option value="16">16</option>
+                        <option value="17">17</option><option value="18">18</option>
+                        <option value="19">19</option><option value="20">20</option>
+                        <option value="21">21</option><option value="22">22</option>
+                        <option value="23">23</option><option value="24">24</option>
+                        <option value="25">25</option><option value="26">26</option>
+                        <option value="27">27</option><option value="28">28</option>
+                        <option value="29">29</option><option value="30">30</option>
+                        <option value="31">31</option>
+                    </select>일
+                </tr>
+
+            </form>
+
+        </center>
+    </body>
+</html>
