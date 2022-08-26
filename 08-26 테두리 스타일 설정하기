@@ -1,0 +1,44 @@
+<html>
+  <head>
+    <STYLE TYPE="text/css">
+      <!--
+        P {width:320px; margin:5px; text-align:center}
+        P.TEST0 {border-style:none; float:left}
+        P.TEST1 {border-style:solid; float:left;
+          border-width:10px;  border-color:Red}
+        P.TEST2 {border-style:dotted; float:left;
+          border-width:10px;  border-color:Red}
+        P.TEST3 {border-style:dashed; float:left;
+          border-width:10px;  border-color:Red}
+        P.TEST4 {border-style:double; float:left;
+          border-width:10px;  border-color:Red}
+        P.TEST5 {border-style:ridge; float:left;
+          border-width:10px;  border-color:pink}
+        P.TEST6 {border-style:groove; float:left;
+          border-width:10px;  border-color:Pink}
+        P.TEST7 {border-style:inset; float:left;
+          border-width:10px;  border-color:skyblue}
+        P.TEST8 {border-style:outset; float:left;
+          border-width:10px;  border-color:skyblue}
+
+        -->
+    </STYLE>
+  </head>
+  <body>
+    <H1> 스타일 시트 적용하기 </H1>
+    <BR>
+      <P CLASS=TEST0> none: <br>테두리가 보이지 않음</P>
+      <br><br><br><br><br>
+      <P CLASS=TEST1> solid: <br>테두리를 직선으로 표시함</P>
+      <P CLASS=TEST2> dotted: <br>테두리를 점선으로 표시함</P>
+      <br><br><br><br><br>
+      <P CLASS=TEST3> dashed: <br>테두리를 좀 더 긴 점선으로 표시함</P>
+      <P CLASS=TEST4> double: <br>테두리를 이중 실선으로 표시함</P>
+      <br><br><br><br><br>
+      <P CLASS=TEST5> ridge: <br>테두리를 볼록한 실선으로 표시함</P>
+      <P CLASS=TEST6> groove: <br>테두리를 오목한 실선으로 표시함</P>
+      <br><br><br><br><br>
+      <P CLASS=TEST7> inset: <br>테두리의 내용을 오목한 모양으로 표시함</P>
+      <P CLASS=TEST8> outset: <br>테두리의 내용을 볼록한 모양으로 표시함</P>
+  </body>
+</html>
