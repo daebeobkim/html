@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <STYLE TYPE = "text/css">
+      <!--
+        H1{
+          font-family:  굴림체;
+          font-weight:  lighter;
+          color : red
+        }
+        P{
+          font-family:  궁서체;
+          font-weight:  bolder;
+          font-style:   italic;
+          font-size:  20pt;
+        }
+        -->
+    </STYLE>
+  </head>
+  <body>
+    <center>
+      <H1>스타일 시트 적용하기</H1>
+      <br><hr>
+      <P>
+        글자 크기는 20pt이고, 이탤릭체이며
+        폰트의 종류는 궁서체 입니다.
+      </P>
+      <hr>
+    </center>
+  </body>
+</html>
