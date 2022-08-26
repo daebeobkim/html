@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <STYLE TYPE = "text/css">
+      <!--
+        H1{
+          text-align:right;
+          text-indent:3cm;
+        }
+        P{
+          text-decoration:overline;
+          text-transform:uppercase;
+          font-style:italic;
+          font-size: 20pt;
+        }
+        -->
+    </STYLE>
+  </head>
+  <body>
+    <center>
+      <H1>스타일 시트 적용하기</H1>
+      <br><hr>
+      <P>
+        텍스트 장식은 overline이고, 이탤릭체이며,<br>
+        폰트의 크기는 20 포인트입니다.
+      </P>
+    </center>
+  </body>
+</html>
