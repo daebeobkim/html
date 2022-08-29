@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <script language="javascript">
+            <!--
+                var num1, num2
+                num1 = 12
+                num2 = 5
+                document.write("<br>수치형 변수끼리 산술 연산한 결과값")
+                document.write("<hr> num1 ==========>" + num1)
+                document.write("<hr> num2 ==========>" + num2)
+                document.write("<hr>[더하기] num1 + num2 =", num1 + num2)
+                document.write("<p>[빼&nbsp&nbsp 기]num1 - num2 =", num1-num2)
+                document.write("<p>[곱하기] num1 * num2 =", num1 * num2)
+                document.write("<p>[나누기] num1 / num2 =", num1 / num2)
+                document.write("<p>[나머지] num1 % num2 =", num1 % num2)
+                
+                //-->
+        </script>
+    </head>
+</html>>
