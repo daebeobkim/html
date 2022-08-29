@@ -1,0 +1,12 @@
+<html>
+    <head><title>메시지 박스</title></head>
+    <body>
+        <h1> alert 함수를 사용한 에제</h1><br>
+        <script language="javascript">
+            <!--
+                alert("단순히 전달사항을 출력할 때 .\n 사용하는 함수를 alert입니다.");
+                //-->
+                
+        </script>
+    </body>
+</html>
