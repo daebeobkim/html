@@ -1,0 +1,15 @@
+<html>
+    <head><title>메세지 박스</title></head>
+    <body>
+        <h1> comfirm 함수를 사용하는 예제</h1><hr>
+        <script language = "javascript">
+            <!--
+                answer = confirm("[확인][취소]중 선택: 수강 신청을 하시겠습니까?")
+                if(answer == true)
+                document.write("등록되었습니다.")
+                else
+                document.write("취소되었습니다. 다시 신청해 주세요.")
+                //-->
+        </script>
+    </body>
+</html>
