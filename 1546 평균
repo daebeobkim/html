@@ -1,0 +1,10 @@
+a = int(input())
+b = list(map(int,(input().split())))
+
+max = max(b)
+
+newlist = []
+for score in b:
+    newlist.append(score/max*100)
+testavg = sum(newlist)/a
+print(testavg)
